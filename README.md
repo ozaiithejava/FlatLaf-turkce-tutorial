@@ -7,7 +7,7 @@ türkiyede ilk flatlaf tutorial
 
 2-IntelliJ IDEA yı acın
 
-3-maven projecsi oluşturun
+3-maven projesi oluşturun
 
 4-pom.xml e sunu yapıstırın
 ```
