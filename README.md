@@ -1,2 +1,2 @@
-# FlatLaf-T-rk-e-Tutorial
+# FlatLaf-Türkce tutorial
 türkiyede ilk flatlaf tutorial
